@@ -1,0 +1,13 @@
+body{
+	color:white;
+}
+.form-custom{
+	width: 45%;
+	margin-top: 210px;
+}
+@media only screen and (max-width: 600px) {
+	.form-custom{
+		width: 80%;
+		margin-top: 150px;
+	}
+}
