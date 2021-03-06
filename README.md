@@ -2,5 +2,4 @@
 
 
 ### LINK TO APP ###
-* App is available in web page:
-[a link](https://tomaszsiedlecki.pl)
+* App is available in web page: [link](https://tomaszsiedlecki.pl)
